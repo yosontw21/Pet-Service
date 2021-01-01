@@ -13675,15 +13675,10 @@ span {
 
 .navbar-toggler {
   position: absolute;
-  right: 20px;
-  top: 15px; }
-
-.navbar-toggler {
+  width: 35px;
+  height: 30px;
   right: 20px;
   top: 20px;
-  width: 36px;
-  height: 30px;
-  margin: 0;
   border: none; }
 
 .navbar-toggler span {
